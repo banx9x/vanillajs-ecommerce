@@ -1,1 +1,1 @@
-document.querySelector("#app").textContent = "Hahaha";
+document.querySelector('#app').textContent = 'Hahaha';

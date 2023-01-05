@@ -35,7 +35,7 @@ Push the code to Github then link the repo to a Vercel or Netlify project for au
   ```
 
 - Build project
-  
+
   ```sh
   npm run build
   ```
